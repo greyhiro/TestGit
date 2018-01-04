@@ -1,1 +1,1 @@
-J'aime les variable test appelé "patate" Bonjour bonjour bonjour
+Changement radical de texte contenue dans le file.txt
